@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "肖潇"
+title: "Xiao Xiao"
 permalink: /cv/
 author_profile: true
 redirect_from:
