@@ -3,6 +3,7 @@ permalink: /
 title: "Xiao Xiao"
 author_profile: true
 redirect_from: 
+layout: single
   - /about/
   - /about.html
 ---
