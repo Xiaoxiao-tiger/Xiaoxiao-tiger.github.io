@@ -1,10 +1,7 @@
 ---
-permalink: /
+permalink: /zh/
 title: "肖潇"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 我目前是南京大学计算传播学实验中心博士生，导师[王成军](https://chengjunwang.com/)。我希望通过计算叙事的方式讲述有趣的故事。我目前的工作是通过《参考消息》和《毛泽东年谱》分析中国外交的发展历程。
