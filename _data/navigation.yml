@@ -8,11 +8,13 @@ main:
   - title: "Publications"
     url: /publications/
   
-  - title: "中文"
-    url: /zh/
-    
   - title: "CV"
     url: /cv/
+    
+  - title: "中文"
+    url: /zh/
+
+
   
 
   # - title: "Talks"
