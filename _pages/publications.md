@@ -1,10 +1,7 @@
 ---
-permalink: /
+permalink: /publications/
 title: "Publications"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 Journal Articles
